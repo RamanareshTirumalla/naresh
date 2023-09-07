@@ -8,6 +8,6 @@ public class Classes2
 	@Test(invocationCount = 3)
 	public void ss() {
 		Reporter.log("one two three",true);
-	}
+	}//Sysout.out.println("boss this good");
 
 }
