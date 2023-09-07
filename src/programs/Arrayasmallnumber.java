@@ -18,6 +18,6 @@ public class Arrayasmallnumber
 		System.out.println(ar[0]);
 		
 	}
-	
+	//boss this good one
 
 }
