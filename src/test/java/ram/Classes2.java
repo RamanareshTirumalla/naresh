@@ -10,4 +10,4 @@ public class Classes2
 		Reporter.log("one two three",true);
 	}//Sysout.out.println("boss this good");
 
-}
+}//Sysout boss is good
