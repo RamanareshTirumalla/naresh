@@ -11,7 +11,7 @@ public class ArrayFrequency
 		{
 			int count=1;
 			int read=-1;
-			for(int j=i+1;j<=l-1;j++)
+			for(int j=i+1;j<=l-1;j++)//sorry
 			{
 				if(a[i]==a[j])
 				{
